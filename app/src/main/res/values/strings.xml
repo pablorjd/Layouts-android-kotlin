@@ -3,4 +3,6 @@
     <string name="title_home">Linear</string>
     <string name="title_dashboard">Frame</string>
     <string name="title_notifications">Constraint</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
